@@ -619,26 +619,3 @@ Basis vectors create all vectors in a space.
 
 ---
 
-# What You Actually Need Before Starting ML
-
-Master these first:
-
-1. Scalars
-2. Vectors
-3. Matrix Basics
-4. Matrix Shapes
-5. Dot Product
-6. Matrix Multiplication
-7. Transpose
-
-These 7 topics alone cover around 80% of the linear algebra used in beginner and intermediate ML.
-
-After that, learn:
-
-- Eigenvalues
-- Eigenvectors
-- PCA Intuition
-
-Don't try to become a mathematician before starting ML.
-
-The goal is to understand how data is represented and manipulated inside ML models.
