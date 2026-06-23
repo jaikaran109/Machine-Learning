@@ -1,4 +1,4 @@
-# Vectors for Machine Learning — Complete Guide
+# Vectors for Machine Learning 
 
 Vectors are one of the most fundamental concepts in Linear Algebra and Machine Learning. Before understanding matrices, neural networks, embeddings, or transformers, you must understand vectors.
 
