@@ -1,4 +1,4 @@
-# Eigenvalues & Eigenvectors for Machine Learning — Complete Guide
+# Eigenvalues & Eigenvectors for Machine Learning
 
 Eigenvalues and Eigenvectors are among the most misunderstood topics in Linear Algebra. The good news: **for Machine Learning, you do NOT need deep mathematical proofs.** You only need to understand what they represent, why they matter, how PCA uses them, and where they appear in ML.
 
