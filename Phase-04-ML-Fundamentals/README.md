@@ -1,6 +1,6 @@
 # Phase 4: Machine Learning Fundamentals
 
-This phase builds a practical foundation in machine learning using **Scikit-Learn**. It covers the core supervised and unsupervised algorithms, the concepts that explain why models succeed or fail, the data preparation and evaluation techniques used in real projects, and four end-to-end projects that apply everything to real-world problems.
+This phase builds a practical foundation in machine learning using **Scikit-Learn**. It covers the core concepts, data preparation techniques, supervised and unsupervised learning algorithms, model evaluation, and model improvement techniques used in real-world machine learning projects.
 
 ---
 
@@ -28,7 +28,7 @@ This phase builds a practical foundation in machine learning using **Scikit-Lear
 | **Phase** | 4 |
 | **Title** | Machine Learning Fundamentals |
 | **Duration** | 2 Months |
-| **Focus** | Core concepts, data preparation, supervised and unsupervised learning, evaluation, model improvement |
+| **Focus** | Core concepts, data preparation, supervised and unsupervised learning, evaluation, and model improvement |
 | **Library** | Scikit-Learn |
 | **Projects** | 4 |
 
@@ -36,10 +36,12 @@ This phase builds a practical foundation in machine learning using **Scikit-Lear
 
 ## Syllabus
 
-```
+```text
 Phase 4: Machine Learning Fundamentals
 │
 ├── Core Concepts
+│   ├── Types of Machine Learning
+│   ├── Batch Learning vs Online Learning
 │   ├── Gradient Descent and Loss Functions
 │   ├── Train/Test Split
 │   ├── Cross-Validation
@@ -54,15 +56,23 @@ Phase 4: Machine Learning Fundamentals
 │   └── Basic Feature Engineering
 │
 ├── Supervised Learning
-│   ├── Linear Regression
-│   ├── Multiple Linear Regression
-│   ├── Logistic Regression
-│   ├── KNN
-│   ├── Naive Bayes
-│   ├── Decision Trees
-│   ├── Random Forest
-│   ├── Gradient Boosting
-│   └── XGBoost
+│   │
+│   ├── Regression
+│   │   ├── Linear Regression
+│   │   └── Multiple Linear Regression
+│   │
+│   ├── Classification
+│   │   ├── Logistic Regression
+│   │   ├── KNN
+│   │   └── Naive Bayes
+│   │
+│   ├── Tree-Based Models
+│   │   ├── Decision Trees
+│   │   └── Random Forest
+│   │
+│   └── Boosting
+│       ├── Gradient Boosting
+│       └── XGBoost
 │
 ├── Unsupervised Learning
 │   ├── K-Means
@@ -70,7 +80,12 @@ Phase 4: Machine Learning Fundamentals
 │   └── PCA
 │
 ├── Model Evaluation
-│   ├── Regression Metrics (MAE, MSE, RMSE, R²)
+│   ├── Regression Metrics
+│   │   ├── MAE
+│   │   ├── MSE
+│   │   ├── RMSE
+│   │   └── R²
+│   │
 │   ├── Confusion Matrix
 │   ├── Accuracy
 │   ├── Precision
@@ -97,14 +112,3 @@ Phase 4: Machine Learning Fundamentals
     ├── Student Performance Prediction
     ├── Customer Churn Prediction
     └── Credit Risk Prediction
-```
-
----
-
-## Core Concepts
-
-These ideas explain how models learn and why they sometimes fail.
-
-| Concept | Description |
-|---|---|
-| **Gradient Descent and Loss Functions** | A loss function measures how
