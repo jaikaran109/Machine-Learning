@@ -41,10 +41,10 @@ Phase 4: Machine Learning Fundamentals
 │
 ├── Core Concepts
 │   ├── Types of Machine Learning
+|   ├── Instance-Based vs Model-Based Learning
 │   ├── Batch Learning vs Online Learning
 │   ├── Gradient Descent and Loss Functions
-│   ├── Train/Test Split
-│   ├── Cross-Validation
+│   ├── Train/Test Split and Cross-Validation   
 │   ├── Overfitting vs Underfitting
 │   ├── Bias-Variance Tradeoff
 │   └── Regularization (Ridge, Lasso)
