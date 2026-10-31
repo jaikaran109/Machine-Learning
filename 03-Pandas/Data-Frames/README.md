@@ -1,6 +1,5 @@
 # DataFrames in Pandas
 
-> **Phase 2: Data Analysis, Pandas**
 > The table-like structure that holds almost all data you will work with in machine learning.
 
 ---
